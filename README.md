@@ -1,0 +1,1 @@
+# simple_disable_right_click
